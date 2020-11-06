@@ -1,12 +1,9 @@
  # Write a script that uses the GIthub API to take a repository as a parameter, and returns open issues and labels (any format)
 
-
-
 from github import Github
 import os
 from pprint import pprint
 import requests
-from pprint import pprint
 import sys
 
 
